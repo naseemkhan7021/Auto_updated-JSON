@@ -1,5 +1,6 @@
 # Auto_updated-JSON  Main work
-Using the python make the JSON auto apdated data about the any file store in the JSON
+Using the python make the JSON auto apdated. 
+Data will be related to the file info like modifie data, created data, file name and more you can add.
 
 ## Installation
 
